@@ -2,8 +2,8 @@
 % Script: DataPreparation.m
 % Description: Segmentation of Raw Data (Subjects 11–20) with ECG Filtering
 % =========================================================================
-inputBaseDir = 'C:\Users\Kourkouk\Documents\MyRawData'; 
-outputBaseDir = 'C:\Users\Kourkouk\Documents\ProcessedDataset'; 
+inputBaseDir = 'C:\Users\...\Documents\MyRawData'; 
+outputBaseDir = 'C:\Users\...\Documents\ProcessedDataset'; 
 
 segmentLength = 2048; 
 downsampleFactor = 10; 
